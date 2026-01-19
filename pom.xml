@@ -5,7 +5,7 @@
   <artifactId>java-hello-world-webapp</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>java-hello-world-webapp Maven Webapp</name>
+  <name>java-hello-world-webapp harshitha Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>java-hello-world</finalName>
+    <finalName>DevOps-Training</finalName>
   </build>
 </project>
