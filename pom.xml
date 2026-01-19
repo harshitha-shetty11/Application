@@ -5,7 +5,7 @@
   <artifactId>java-DevOps-Training-webapp</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>java-hello-world-webapp harshitha Webapp</name>
+  <name>java DevOps-Training web app by harshitha</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
